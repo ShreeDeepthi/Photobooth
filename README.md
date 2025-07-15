@@ -35,5 +35,12 @@ Run the Streamlit app
 bash
 Copy
 Edit
+
+Captured with love, coded with intention. ♥
+
+
+
+
+
 streamlit run polaroid_app.py
 Repository Contents
