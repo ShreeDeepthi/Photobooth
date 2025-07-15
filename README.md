@@ -1,6 +1,6 @@
 
 # Polaroid Strip Generator
-
+Captured with love, coded with intention. ♥
 A minimalist Streamlit web app that lets you take 4 webcam photos and generate a black-and-white polaroid-style strip with caption stickers and scrapbook-style tape overlays.
 
 ## Features
@@ -35,12 +35,5 @@ Run the Streamlit app
 bash
 Copy
 Edit
-
-Captured with love, coded with intention. ♥
-
-
-
-
-
 streamlit run polaroid_app.py
 Repository Contents
